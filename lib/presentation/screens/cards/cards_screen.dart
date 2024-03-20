@@ -200,7 +200,8 @@ class _CardType4 extends StatelessWidget {
             child: Container(
               decoration: const BoxDecoration(
                 color: Colors.white,
-                borderRadius: BorderRadius.only(bottomLeft: Radius.circular(20))              ),
+                borderRadius: BorderRadius.only(bottomLeft: Radius.circular(20)) 
+              ),
               child: IconButton(
                 onPressed: (){},
                 icon: const Icon( Icons.more_vert_outlined ),
