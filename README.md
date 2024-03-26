@@ -21,3 +21,11 @@ A new Flutter project.
 3. Casos de Uso: Se comunica con los repositorios //NO SE HACE EN ESTE PROYECTO
 4. Repositorios y Datasources: Los repositorios llaman los datasources
 5. Informacion: Y luego la informacion regresa al UI.
+
+# -->Run Flutter Launcher Icons<--
+1. dart run flutter_launcher_icons
+
+# -->Run Flutter Rename App<--
+1. dart run rename_app:main all="My App Name"
+2. dart run rename_app:main android="Anroid Name" ios="IOS Name" others="Others Name"
+3. dart run rename_app:main android="Android Name" ios="IOS Name" web="Web Name" mac="Mac Name" windows="Windows Name"
