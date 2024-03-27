@@ -29,3 +29,6 @@ A new Flutter project.
 1. dart run rename_app:main all="My App Name"
 2. dart run rename_app:main android="Anroid Name" ios="IOS Name" others="Others Name"
 3. dart run rename_app:main android="Android Name" ios="IOS Name" web="Web Name" mac="Mac Name" windows="Windows Name"
+
+# -->Build<--
+1. flutter build apk
